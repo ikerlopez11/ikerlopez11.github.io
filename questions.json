@@ -1,0 +1,79 @@
+{
+  "category1": {
+    "links": [
+      "https://example1.com",
+      "https://example2.com",
+      "https://example3.com"
+    ]
+  },
+  "category2": {
+    "questions": [
+      {
+        "question": "¿Pregunta 1 de categoría 2?",
+        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
+        "answerIndex": 1
+      },
+      {
+        "question": "¿Pregunta 2 de categoría 2?",
+        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
+        "answerIndex": 3
+      }
+    ]
+  },
+  "category3": {
+    "questions": [
+      {
+        "question": "¿Pregunta 1 de categoría 3?",
+        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
+        "answerIndex": 0
+      },
+      {
+        "question": "¿Pregunta 2 de categoría 3?",
+        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
+        "answerIndex": 2
+      }
+    ]
+  },
+  "category4": {
+    "questions": [
+      {
+        "question": "¿Pregunta 1 de categoría 4?",
+        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
+        "answerIndex": 3
+      },
+      {
+        "question": "¿Pregunta 2 de categoría 4?",
+        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  "category5": {
+    "questions": [
+      {
+        "question": "¿Pregunta 1 de categoría 5?",
+        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
+        "answerIndex": 2
+      },
+      {
+        "question": "¿Pregunta 2 de categoría 5?",
+        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  "category6": {
+    "questions": [
+      {
+        "question": "¿Pregunta 1 de categoría 6?",
+        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
+        "answerIndex": 3
+      },
+      {
+        "question": "¿Pregunta 2 de categoría 6?",
+        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
+        "answerIndex": 2
+      }
+    ]
+  }
+}
