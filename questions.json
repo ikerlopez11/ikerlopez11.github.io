@@ -9,14 +9,9 @@
   "category2": {
     "questions": [
       {
-        "question": "¿Pregunta 1 de categoría 2?",
-        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
-        "answerIndex": 1
-      },
-      {
-        "question": "¿Pregunta 2 de categoría 2?",
-        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
-        "answerIndex": 3
+        "question": "¿Que jugador llevará el 9 en el Real Madrid?",
+        "options": ["Mbappé"],
+        "answerIndex": 0
       }
     ]
   },
