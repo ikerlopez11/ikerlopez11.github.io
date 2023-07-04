@@ -9,23 +9,749 @@
   "category2": {
     "questions": [
       {
-        "question": "¿Que jugador llevará el 9 en el Real Madrid?",
-        "options": ["Mbappé"],
-        "answerIndex": 0
+      "question": "¿Cuándo acabó la II Guerra Mundial?",
+      "options": ["En 1945."]
+      },
+      {
+      "question": "¿Cuál era el apellido de la reina Isabel II de Inglaterra?",
+      "options": ["Windsor."]
+      },
+      {
+      "question": "¿En qué año se aprobó la actual Constitución española?",
+      "options": ["En 1978."]
+      },
+      {
+      "question": "¿Qué día es la fiesta de la hispanidad?",
+      "options": ["El 12 de octubre."]
+      },
+      {
+      "question": "¿Cuál fue el primer presidente democrático de España tras la dictadura franquista?",
+      "options": ["Adolfo Suárez."]
+      },
+      {
+      "question": "¿En qué año murió Freddie Mercury?",
+      "options": ["En 1991."]
+      },
+      {
+      "question": "¿Qué día es la fiesta nacional de Estados Unidos?",
+      "options": ["El 4 de julio."]
+      },
+      {
+      "question": "¿Quién inventó la bombilla?",
+      "options": ["Thomas Edison."]
+      },
+      {
+      "question": "¿En qué país se usó la primera bomba atómica?",
+      "options": ["En Japón (Hiroshima)."]
+      },
+      {
+      "question": "¿Cuándo empezó la Primera Guerra Mundial?",
+      "options": ["En 1914."]
+      },
+      {
+      "question": "¿En qué año se produjo la Revolución Francesa?",
+      "options": ["En 1789."]
+      },
+      {
+      "question": "¿Cuántas veces ha estado el hombre en la Luna?",
+      "options": ["Seis."]
+      },
+      {
+      "question": "¿Qué presidente de Estados Unidos fue asesinado en Dallas?",
+      "options": ["John F. Kennedy."]
+      },
+      {
+      "question": "¿En qué año viajó al espacio el primer ser humano?",
+      "options": ["En 1961 (Yuri Gagarin)."]
+      },
+      {
+      "question": "¿En qué año llegó Cristóbal Colón a América?",
+      "options": ["En 1492."]
+      },
+      {
+      "question": "¿Cuándo saltó Felix Baumgartner?",
+      "options": ["En 2012."]
+      },
+      {
+      "question": "¿En qué año cayó el muro de Berlín?",
+      "options": ["En 1989."]
+      },
+      {
+      "question": "¿Cuándo se inventó la imprenta?",
+      "options": ["En 1440."]
+      },
+      {
+      "question": "¿Cuándo se extinguieron los dinosaurios?",
+      "options": ["Hace 66 millones de años."]
+      },
+      {
+      "question": "¿Cuál era el nombre de pila de Che Guevara?",
+      "options": ["Ernesto."]
+      },
+      {
+      "question": "¿Según la Biblia, ¿cuántos años vivió Matusalén?",
+      "options": ["969 años."]
+      },
+      {
+      "question": "¿En qué país nació Adolf Hitler?",
+      "options": ["Austria."]
+      },
+      {
+      "question": "¿Qué reina británica fue hija de los Reyes Católicos?",
+      "options": ["Catalina de Aragón."]
+      },
+      {
+      "question": "¿Cuánto duró “La Guerra de los Cien Años”?",
+      "options": ["116 años."]
+      },
+      {
+      "question": "¿Quién fue el último faraón de Egipto?",
+      "options": ["Ramsés III."]
+      },
+      {
+      "question": "¿Cuál fue la primera civilización humana?",
+      "options": ["La civilización sumeria."]
+      },
+      {
+      "question": "¿Cuándo empezó la Revolución Rusa?",
+      "options": ["En 1917."]
+      },
+      {
+      "question": "¿Cuál fue el genocidio más grande de la historia?",
+      "options": ["El Holocausto."]
+      },
+      {
+      "question": "¿Quién creó el Partido Comunista?",
+      "options": ["Lenin."]
+      },
+      {
+      "question": "¿Qué famoso líder de Cuba estuvo 49 años en el poder?",
+      "options": ["Fidel Castro."]
+      },
+      {
+      "question": "¿Cuándo se fundó la OTAN?",
+      "options": ["En 1949."]
+      },
+      {
+      "question": "¿En qué año fue asesinado Abraham Lincoln?",
+      "options": ["En 1865."]
+      },
+      {
+      "question": "¿En qué año se hundió el Titanic?",
+      "options": ["En 1912."]
+      },
+      {
+      "question": "¿Con cuántos años murió la Reina Isabel II?",
+      "options": ["Con 96 años."]
+      },
+      {
+      "question": "¿Cómo se llamaba en realidad El Cid Campeador?",
+      "options": ["Rodrigo Díaz de Vivar."]
+      },
+      {
+      "question": "¿En qué año fue el golpe de estado de Tejero?",
+      "options": ["En 1981."]
+      },
+      {
+      "question": "¿Cuál fue el primer metal que el hombre empleó?",
+      "options": ["El cobre."]
+      },
+      {
+      "question": "¿Qué personaje fue conocido como el rey de Macedonia?",
+      "options": ["Alejandro Magno."]
+      },
+      {
+      "question": "¿Alrededor de qué mar vivieron los egipcios, los fenicios, los israelitas, los griegos y los romanos?",
+      "options": ["El Mar Mediterráneo."]
+      },
+      {
+      "question": "Según la leyenda ¿quiénes fundaron a Roma?",
+      "options": ["Rómulo y Remo."]
+      },
+      {
+      "question": "¿En qué año ocurrió el intento de golpe de Estado en España?",
+      "options": ["En 1981."]
+      },
+      {
+      "question": "¿En qué año se coronó a Isabel II?",
+      "options": ["1953."]
+      },
+      {
+      "question": "¿En qué año abdicó el rey Juan Carlos I?",
+      "options": ["En 2014."]
+      },
+      {
+      "question": "¿En qué continente surgió la Humanidad?",
+      "options": ["En África."]
+      },
+      {
+      "question": "¿En qué año cayó el Imperio Romano?",
+      "options": ["472", "455", "476", "480"],
+      "answerIndex": 2
+      },
+      {
+      "question": "¿En qué etapa desaparecieron los dinosaurios?",
+      "options": ["Al final del Cretácico."]
+      },
+      {
+      "question": "¿Quién descubrió Perú?",
+      "options": ["Francisco Pizarro."]
+      },
+      {
+      "question": "¿Dónde nació Adolf Hitler?",
+      "options": ["En Austria."]
+      },
+      {
+      "question": "¿Quién fue el primer emperador romano?",
+      "options": ["César Augusto."]
+      },
+      {
+      "question": "¿En qué año murió Napoleón?",
+      "options": ["En 1821."]
+      },
+      {
+      "question": "¿Dónde se encuentra la Sagrada Familia?",
+      "options": ["En Barcelona"]
+      },
+      {
+      "question": "¿Cuál es el océano más grande del mundo?",
+      "options": ["El océano Pacífico"]
+      },
+      {
+      "question": "¿Cuál es el país más grande del mundo?",
+      "options": ["Rusia, con 17.075.200 km² de superficie"]
+      },
+      {
+      "question": "¿Cual es país más poblado de la Tierra?",
+      "options": ["China, con más de 1.383.488.571 de habitantes"]
+      },
+      {
+      "question": "¿Cuál es la ciudad de los rascacielos?",
+      "options": ["Nueva York"]
+      },
+      {
+      "question": "¿En qué provincia de España se encuentra el parque temático de Port Aventura?",
+      "options": ["Tarragona"]
+      },
+      {
+      "question": "¿Dónde está la Casa Blanca?",
+      "options": ["En Washington D.C."]
+      },
+      {
+      "question": "¿Cuál es el continente más extenso del planeta?",
+      "options": ["Asia"]
+      },
+      {
+      "question": "¿Qué país del mundo produce más vino?",
+      "options": ["Italia"]
+      },
+      {
+      "question": "¿A cuántos kilómetros equivale una milla?",
+      "options": ["1.6 km"]
+      },
+      {
+      "question": "¿Dónde se inventó la pizza?",
+      "options": ["En Nápoles"]
+      },
+      {
+      "question": "¿Cuántas personas hay en el mundo?",
+      "options": ["7.870 millones"]
+      },
+      {
+      "question": "¿Cuál es la línea más larga del metro de Madrid?",
+      "options": ["La línea 12"]
+      },
+      {
+      "question": "¿Cuál es el lugar más frío de la tierra?",
+      "options": ["La Antártida"]
+      },
+      {
+      "question": "¿Cuál es el río más largo de Europa?",
+      "options": ["El Volga"]
+      },
+      {
+      "question": "¿Dónde se encuentra el museo del Louvre?",
+      "options": ["En París"]
+      },
+      {
+      "question": "¿En qué ciudad europea está el Atomium?",
+      "options": ["En Bruselas"]
+      },
+      {
+      "question": "¿Cómo se llama el río más famoso de Egipto?",
+      "options": ["El Nilo"]
+      },
+      {
+      "question": "¿Cuál es la montaña más alta del planeta?",
+      "options": ["El Everest"]
+      },
+      {
+      "question": "¿Cuál es el río más largo del planeta?",
+      "options": ["El Amazonas"]
+      },
+      {
+      "question": "¿En qué país se encuentra el desierto de Atacama?",
+      "options": ["En Chile"]
+      },
+      {
+      "question": "¿Cuál es la ciudad más poblada de Andalucía?",
+      "options": ["Sevilla"]
+      },
+      {
+      "question": "¿En qué país se encuentra el rascacielos más alto del mundo?",
+      "options": ["En Dubai"]
+      },
+      {
+      "question": "¿Cuál es el continente más extenso del planeta?",
+      "options": ["Asia"]
+      },
+      {
+      "question": "¿Cuál es el país más poblado de África?",
+      "options": ["Nigeria"]
+      },
+      {
+      "question": "¿De qué país es originario el café?",
+      "options": ["De Etiopía"]
+      },
+      {
+      "question": "¿En qué ciudad se entrevistaron Hitler y Franco?",
+      "options": ["Hendaya"]
+      },
+      {
+      "question": "¿De qué país se independizó Eslovenia?",
+      "options": ["Yugoslavia"]
+      },
+      {
+      "question": "¿A qué país pertenece la isla de Creta?",
+      "options": ["Grecia"]
+      },
+      {
+      "question": "¿Cuál es el país más visitado del mundo?",
+      "options": ["Francia"]
+      },
+      {
+      "question": "¿Qué cordillera separa Europa de Asia?",
+      "options": ["Los montes Urales"]
+      },
+      {
+      "question": "¿Cuál es el país con menos habitantes del mundo?",
+      "options": ["La Ciudad del Vaticano"]
+      },
+      {
+      "question": "¿Qué dos países separa el estrecho de Bering?",
+      "options": ["Rusia y Estados Unidos"]
+      },
+      {
+        "question": "¿A qué país pertenece Groenlandia?",
+        "options": ["Dinamarca"]
+      },
+      {
+        "question": "¿Cuál es la moneda oficial de Japón?",
+        "options": ["El yen"]
+      },
+      {
+        "question": "¿Qué volcán sepultó la ciudad de Pompeya?",
+        "options": ["El Vesubio"]
+      },
+      {
+        "question": "¿Cuál era la ciudad más cercana a la central nuclear de Chernóbil?",
+        "options": ["Prípiat"]
+        },
+      {
+        "question": "¿Dónde se queda lo que pasa en Las Vegas?",
+        "options": ["En Las Vegas"]
+      },
+      {
+        "question": "¿Cuál es la ciudad más poblada del mundo?",
+        "options": ["Tokio"]
+      },
+      {
+        "question": "¿Dónde está Transilvania?",
+        "options": ["En Rumanía"]
+      },
+      {
+        "question": "¿Cómo se llama el desierto de México?",
+        "options": ["Sonora"]
+      },
+      {
+        "question": "¿Qué río pasa por Roma?",
+        "options": ["El río Tíber"]
+      },
+      {
+        "question": "¿Cuál es el estado más grande Estados Unidos?",
+        "options": ["Alaska"]
+      },
+      {
+        "question": "¿Qué dos países de América del Sur no tienen litoral?",
+        "options": ["Bolivia y Paraguay"]
+      },
+      {
+        "question": "¿Qué ciudad tuvo una vez el nombre de Leningrado?",
+        "options": ["San Petersburgo"]
+      },
+      {
+        "question": "¿Cuál es la capital de Nicaragua?",
+        "options": ["Maragua"]
+      },
+      {
+        "question": "Si vas a esquiar a Sankt Moritz, ¿en qué país estás esquiando?",
+        "options": ["En Suiza"]
+      },
+      {
+        "question": "¿En qué lugar está el Taj Mahal?",
+        "options": ["En Agra, en India"]
+      },
+      {
+        "question": "¿Cuántos países tiene África?",
+        "options": ["54"]
+      },
+      {
+        "question": "¿Dónde está el monte Vesubio?",
+        "options": ["En Nápoles"]
+      },
+      {
+        "question": "¿Cuántos huesos hay en el cuerpo humano?",
+        "options": ["Un adulto tiene 206 huesos."]
+      },
+      {
+        "question": "¿Cómo se llaman las crías de los conejos?",
+        "options": ["Gazapos."]
+      },
+      {
+        "question": "¿Cuántas válvulas tiene el corazón humano?",
+        "options": ["Cuatro: mitral, tricúspide, aórtica y pulmonar."]
+      },
+      {
+        "question": "¿Cómo se llama el proceso por el cual las plantas se alimentan?",
+        "options": ["Fotosíntesis."]
+      },
+      {
+        "question": "¿Cuál es el músculo más fuerte del cuerpo humano?",
+        "options": ["El masetero."]
+      },
+      {
+        "question": "¿Cuántos elementos hay en la Tabla Periódica?",
+        "options": ["118 elementos."]
+      },
+      {
+        "question": "¿Cuánto vale el número pi?",
+        "options": ["3.1416"]
+      },
+      {
+        "question": "¿Qué elemento de la tabla periódica tiene como símbolo He?",
+        "options": ["Helio."]
+      },
+      {
+        "question": "¿Qué planeta es el que se encuentra más cercano al Sol?",
+        "options": ["Mercurio."]
+      },
+      {
+        "question": "¿Qué es más grande un átomo o una célula?",
+        "options": ["Una célula."]
+      },
+      {
+        "question": "¿Cuál es el animal más grande de la Tierra?",
+        "options": ["La ballena azul."]
+      },
+      {
+        "question": "¿Cuántos lados tiene un heptadecágono?",
+        "options": ["Diecisiete."]
+      },
+      {
+        "question": "¿De dónde sale el aceite de oliva?",
+        "options": ["De las aceitunas."]
+      },
+      {
+        "question": "¿Cómo se llama el satélite más grande de Saturno?",
+        "options": ["Titán."]
+      },
+      {
+        "question": "¿Cuál es el único mamífero capaz de volar?",
+        "options": ["El murciélago."]
+      },
+      {
+        "question": "¿Cuál fue el primer metal que empleó el hombre?",
+        "options": ["El cobre."]
+      },
+      {
+        "question": "¿Cuál es el hueso más pequeño del cuerpo humano?",
+        "options": ["El estribo."]
+      },
+      {
+        "question": "¿Cuántos corazones tiene un pulpo?",
+        "options": ["Tres."]
+      },
+      {
+        "question": "¿Cuál es el metal más caro del mundo?",
+        "options": ["El rodio."]
+      },
+      {
+        "question": "¿Cómo se llama el triángulo que tiene sus tres lados iguales?",
+        "options": ["Equilátero."]
+      },
+      {
+        "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "options": ["La piel."]
+      },
+      {
+        "question": "¿Cuál es el animal que más muertes provoca cada año?",
+        "options": ["El mosquito."]
+      },
+      {
+        "question": "¿Cuál es el mineral más duro del planeta?",
+        "options": ["El diamante."]
+      },
+      {
+        "question": "¿Cuál es el nombre de especie de los seres humanos?",
+        "options": ["Homo sapiens sapiens."]
+      },
+      {
+        "question": "¿Cuál es el animal más rápido del mundo?",
+        "options": ["El guepardo."]
+      },
+      {
+        "question": "¿Cuáles son los cinco tipos de sabores primarios?",
+        "options": ["Dulce, amargo, ácido, salado y umami."]
+      },
+      {
+        "question": "¿Cuál es la segunda estrella más próxima a la Tierra?",
+        "options": ["Próxima Centauri."]
+      },
+      {
+        "question": "¿Qué órgano del cuerpo consume más energía?",
+        "options": ["El cerebro."]
+      },
+      {
+        "question": "¿Cuántos dientes tiene un humano adulto?",
+        "options": ["32."]
+      },
+      {
+        "question": "¿Qué descubrieron Marie Curie y su esposo Pierre?",
+        "options": ["La radioactividad."]
+      },
+      {
+        "question": "¿Qué gas liberan las plantas al hacer la fotosíntesis?",
+        "options": ["Oxígeno."]
+      },
+      {
+        "question": "¿Cuál es la serpiente más larga del mundo?",
+        "options": ["La pitón reticulada."]
+      },
+      {
+        "question": "¿Quién descubrió la penicilina?",
+        "options": ["Alexander Fleming."]
+      },
+      {
+        "question": "¿Por qué partículas está formado un átomo?",
+        "options": ["Protones, neutrones y electrones."]
+      },
+      {
+        "question": "¿Qué grasas son más saludables? ¿Las saturadas o las insaturadas?",
+        "options": ["Las insaturadas."]
+      },
+      {
+        "question": "¿Cuántas patas tiene una araña?",
+        "options": ["Ocho."]
+      },
+      {
+        "question": "¿Qué enfermedad provocó la muerte de Stephen Hawking?",
+        "options": ["La ELA (Esclerosis Lateral Amiotrófica)."]
+      },
+      {
+        "question": "¿Quién ideó las leyes de la herencia genética?",
+        "options": ["Gregor Mendel."]
+      },
+      {
+        "question": "¿Por qué moléculas está formada el agua?",
+        "options": ["Dos de hidrógeno y una de oxígeno."]
+      },
+      {
+        "question": "¿Cuáles son los tres colores primarios?",
+        "options": ["El amarillo, el azul y el rojo."]
+      },
+      {
+        "question": "¿En qué mes del año el Sol está más cerca de la Tierra?",
+        "options": ["Diciembre."]
+      },
+      {
+        "question": "¿Qué gas de la atmósfera nos protege de la radiación ultravioleta?",
+        "options": ["El ozono."]
+      },
+      {
+        "question": "¿Cuál es la velocidad de la luz?",
+        "options": ["300.000 kilómetros por segundo."]
+      },
+      {
+        "question": "De los cinco sentidos, ¿cuál es el que se desarrolla primero?",
+        "options": ["El olfato."]
+      },
+      {
+        "question": "¿Qué significan las siglas ADN?",
+        "options": ["Ácido desoxirribonucleico."]
+      },
+      {
+        "question": "¿Cuál es la galaxia más cercana a la nuestra?",
+        "options": ["Andrómeda."]
+      },
+      {
+        "question": "¿Qué pigmento da color a nuestra piel?",
+        "options": ["La melanina."]
+      },
+      {
+        "question": "¿Cuántos días tiene un año bisiesto?",
+        "options": ["366 días."]
+      },
+      {
+        "question": "¿Quién postuló las leyes del movimiento?",
+        "options": ["Isaac Newton."]
+      },
+      {
+        "question": "¿Quién formuló la Teoría de la Relatividad?",
+        "options": ["Albert Einstein."]
+      },
+      {
+        "question": "¿Qué edad tiene el Universo?",
+        "options": ["13.800 millones de años."]
+      },
+      {
+        "question": "¿Cómo se llama al resultado de una multiplicación?",
+        "options": ["Producto."]
+      },
+      {
+        "question": "¿Qué pigmento permite a las plantas hacer la fotosíntesis?",
+        "options": ["La clorofila."]
+      },
+      {
+        "question": "¿Cada cuántos años pasa por la tierra el cometa Halley?",
+        "options": ["Cada 75 años."]
+      },
+      {
+        "question": "¿Cómo se llama el estudio de los hongos?",
+        "options": ["Micología."]
+      },
+      {
+        "question": "¿Cuántas vertebras posee el cuerpo humano?",
+        "options": ["33."]
+      },
+      {
+        "question": "¿Cuál es el material natural más duro del planeta?",
+        "options": ["El diamante."]
+      },
+      {
+        "question": "¿Cuál es el metal que se encuentra en el centro de la tierra?",
+        "options": ["El hierro."]
+      },
+      {
+        "question": "¿Cuál es el gas mayoritario de la atmósfera terrestre?",
+        "options": ["Nitrógeno."]
+      },
+      {
+        "question": "¿Cuál es la estrella más grande conocida?",
+        "options": ["UY Scuti."]
       }
-    ]
+      ]
   },
   "category3": {
     "questions": [
       {
-        "question": "¿Pregunta 1 de categoría 3?",
-        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
+        "question": "¿Cuántas ligas tiene el Athletic Club?",
+        "options": ["8 ligas."]
+      },
+      {
+        "question": "¿En que año fue el 'Maracanazo'?",
+        "options": ["1946", "1942", "1950", "1954"],
+        "answerIndex": 2
+      },
+      {
+        "question": "¿Qué jugador italiano falló el penalti que le dió el Mundial a Brasil en 1994?",
+        "options": ["Roberto Baggio"]
+      },
+      {
+        "question": "¿En que equipo de Francia jugó Ousmane Dembélé?",
+        "options": ["Stade Reims"]
+      },
+      {
+        "question": "¿Cuántos títulos tiene el Real Valladolid?",
+        "options": ["0", "1", "2", "4"],
+        "answerIndex": 1
+      },
+      {
+        "question": "VERDADERO O FALSO ¿Ha jugado el Celta de Vigo la Champions League?",
+        "options": ["Verdadero"]
+      },
+      {
+        "question": "¿Cuántos goles marcó David Villa en el Mundial de Sudáfrica?",
+        "options": ["5"]
+      },
+      {
+        "question": "¿Qué equipo quedó último en la primera liga española de la historia?",
+        "options": ["Racing de Santander", "Real Unión de Irún", "Arenas Club de Getxo", "Club Esportiu Europa"],
         "answerIndex": 0
       },
       {
-        "question": "¿Pregunta 2 de categoría 3?",
-        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
+        "question": "¿Cuántas Bundesliga tiene el Bayern de Múnich?",
+        "options": ["35", "38", "31", "33"],
+        "answerIndex": 3
+      },
+      {
+        "question": "¿En cuántos equipos jugó David Beckham?",
+        "options": ["5. Preston North End FC, Real Madrid, Los Ángeles Galaxy, AC Milan y PSG."]
+      },
+      {
+        "question": "¿Cuál fue el último equipo de Pep Guardiola?",
+        "options": ["Dorados de Sinaloa."]
+      },
+      {
+        "question": "¿En que año se fundó el FC Barcelona?",
+        "options": ["1899"]
+      },
+      {
+        "question": "¿Leo Messi es el máximo goleador histórico del FC Barcelona, pero, quién es el segundo?",
+        "options": ["Luis Suárez (Uruguayo)", "César Rodríguez", "Ladislao Kubala", "Samuel Eto'o"],
+        "answerIndex": 1
+      },
+      {
+        "question": "¿Peor posición del FC Barcelona en liga?",
+        "options": ["12"]
+      },
+      {
+        "question": "¿Peor posición del FC Barcelona en liga?",
+        "options": ["12"]
+      },
+      {
+        "question": "¿Quién es el jugador latino con más goles en mundiales?",
+        "options": ["Ronaldo Nazario", "Gabriel Batistuta", "Diego Armando Maradona", "Lionel Messi"],
+        "answerIndex": 0
+      },
+      {
+        "question": "¿Contra que equipo metió Maradona 'La mano de dios'?",
+        "options": ["Inglaterra"]
+      },
+      {
+        "question": "¿Quién ganó la Eurocopa femenina 2022?",
+        "options": ["Inglaterra"]
+      },
+      {
+        "question": "¿En que año se jugó el primer Mundial de la historia?",
+        "options": ["1930"]
+      },
+      {
+        "question": "¿Cuál es el equipo con más títulos de la Copa Libertadores?",
+        "options": ["Boca Juniors", "Peñarol", "Club Atlético Independiente", "Flamengo"],
         "answerIndex": 2
+      },
+      {
+        "question": "¿Qué jugador del Real Madrid marcó el único gol de la final de 1998 contra la Juventus?",
+        "options": ["Pedja Mijatovic", "Roberto Carlos", "Zinedine Zidane", "Raúl"],
+        "answerIndex": 0
+      },
+      {
+        "question": "¿Contra que equipo perdió el Alavés en la final de la Copa del UEFA en 2001?",
+        "options": ["Liverpool"]
+      },
+      {
+        "question": "¿De que equipo venía Luis Enrique cuando fichó por el FC Barcelona?",
+        "options": ["RC Celta de Vigo"]
       }
     ]
   },
