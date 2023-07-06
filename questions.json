@@ -736,7 +736,7 @@
       },
       {
         "question": "¿En que equipo de Francia jugó Ousmane Dembélé?",
-        "options": ["Stade Reims"]
+        "options": ["Stade Rennais FC"]
       },
       {
         "question": "¿Cuántos títulos tiene el Real Valladolid?",
@@ -1258,14 +1258,56 @@
   "category5": {
     "questions": [
       {
-        "question": "¿Pregunta 1 de categoría 5?",
-        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
-        "answerIndex": 2
+        "question": "¿Nombre del material del Conan Exiles que hizo que Roc y Politono tuvieran una fuerte discusión?",
+        "options": ["Icor."]
       },
       {
-        "question": "¿Pregunta 2 de categoría 5?",
-        "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
-        "answerIndex": 0
+        "question": "¿Cómo se llama la chica de Tinder con la que el Chaparro tuvo un pequeño percance?",
+        "options": ["Anet."]
+      },
+      {
+        "question": "¿Cual es el nombre del mítico personaje de Politono en el 2k?",
+        "options": ["Adolph Mussolini."]
+      },
+      {
+        "question": "¿Qué construcción hacía el Arnau en cada partida del Conan Exiles?",
+        "options": ["Una atalaya."]
+      },
+      {
+        "question": "¿Dónde estábamos cuando el Depor perdió contra el Mallorca en la final del ascenso a primera?",
+        "options": ["En casa del Arnau."]
+      }, 
+      {
+        "question": "¿Con qué equipo francés jugó el Bermúdez su partida del FM?",
+        "options": ["Concarneau."]
+      },
+      {
+        "question": "¿Quién ganó el único Biwenger que hicimos de principio a fin?",
+        "options": ["Politono."]
+      },
+      {
+        "question": "¿Cómo es el mensaje que promovió Politono para felicitar el cumpleaños?",
+        "options": ["Un GIF de hombres sin camiseta moviendo el pecho."]
+      },
+      {
+        "question": "¿Qué partido se jugaba el mítico día en el que fuimos a casa del Roc y el Arnau no vino?",
+        "options": ["FC Barcelona VS Real Sociedad."]
+      }, 
+      {
+        "question": "¿Cómo se quemó la barriga Politono?",
+        "options": ["Friendo un huevo."]
+      }, 
+      {
+        "question": "¿Qué menció que quería hacer el Roc en clase de Economía después de varios suspensos?",
+        "options": ["Jugar unos Fortnitites."]
+      },
+      {
+        "question": "¿Película con la que hubo comedia durante años por un error del Roc diciendo el título?",
+        "options": ["Step Up Up Up"]
+      },
+      {
+        "question": "¿?",
+        "options": [""]
       }
     ]
   },
